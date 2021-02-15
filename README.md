@@ -23,4 +23,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-I faced a few challenges while installing cocoapods.
+I faced a few challenges while installing cocoapods. I also wasn't able to figure out how to navigate to the media library and add the launch screen picture on LaunchScreen.storyboard in XCode 12.
